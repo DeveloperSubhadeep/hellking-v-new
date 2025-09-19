@@ -535,13 +535,13 @@ Exᴀᴍᴘʟᴇ 👉 /Instagram ʜᴛᴛᴘs://ᴡᴡᴡ.ɪɴsᴛᴀɢʀᴀᴍ.
 # | My Code |
 # ===========
 
-CAPTION = """
-<b><a href="https://t.me/Hell_king_69_Bot"><blockquote>{file_name}</blockquote></a></b>\n\n<b>⚜️ Powered By : <a https://t.me/Hell_king_69_Bot>[@Hell_King_69_Bot]</a></b>
-  
- 
-Size ⚙️: {size}
+    CAPTION = """
+    <b><a href="https://t.me/Hell_king_69_Bot"><blockquote>{file_name}</blockquote></a></b>\n\n<b>⚜️ Powered By : <a https://t.me/Hell_king_69_Bot>[@Hell_King_69_Bot]</a></b>
+    
+    
+    Size ⚙️: {size}
 
-Dᴀɪʟʏ Fɪʟᴇ Lɪᴍɪᴛ: {count}/5
- 
-⚠️ ꜰɪʟᴇ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇ ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇs
+    Dᴀɪʟʏ Fɪʟᴇ Lɪᴍɪᴛ: {count}/5
+    
+    ⚠️ ꜰɪʟᴇ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇ ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇs
 """
