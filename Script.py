@@ -271,8 +271,8 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/Hell_king_69_Bot"><blockquote>{file_name}</blockquote></a></b>\n\n<b>⚜️ Powered By : <a https://t.me/Hell_king_69_Bot>[@Hell_King_69_Bot]</a></b>
-"""
+#     CAPTION = """<b><a href="https://t.me/Hell_king_69_Bot"><blockquote>{file_name}</blockquote></a></b>\n\n<b>⚜️ Powered By : <a https://t.me/Hell_king_69_Bot>[@Hell_King_69_Bot]</a></b>
+# """
 
     IMDB_TEMPLATE_TXT = """
 <blockquote><b>🏷 Title</b>: <a href={url}>{title}</a>
@@ -529,3 +529,19 @@ Exᴀᴍᴘʟᴇ 👉 /Instagram ʜᴛᴛᴘs://ᴡᴡᴡ.ɪɴsᴛᴀɢʀᴀᴍ.
   
  ᴇᴠᴇʀʏᴏɴᴇ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ , ɪꜰ sᴘᴀᴍɪɴɢ ʜᴀᴘᴘᴇɴs ʙᴏᴛ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ʙᴀɴ ʏᴏᴜ ꜰʀᴏᴍ ᴛʜᴇ ɢʀᴏᴜᴘ.</b>"""
     GAMES_TXT = """<blockquote><b>ʜᴇʏ,\n\nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴍɪɴɪ ɢᴀᴍᴇs ᴄᴏʟʟᴇᴄᴛɪᴏɴ!\n\nᴄʜᴏᴏsᴇ ᴀ ɢᴀᴍᴇ ꜰʀᴏᴍ ᴛʜᴇ ʟɪsᴛ ʙᴇʟᴏᴡ:</b></blockquote>"""
+
+
+# ===========
+# | My Code |
+# ===========
+
+CAPTION = """
+<b><a href="https://t.me/Hell_king_69_Bot"><blockquote>{file_name}</blockquote></a></b>\n\n<b>⚜️ Powered By : <a https://t.me/Hell_king_69_Bot>[@Hell_King_69_Bot]</a></b>
+  
+ 
+Size ⚙️: {size}
+
+Dᴀɪʟʏ Fɪʟᴇ Lɪᴍɪᴛ: {count}/5
+ 
+⚠️ ꜰɪʟᴇ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇ ᴀꜰᴛᴇʀ 5 ᴍɪɴᴜᴛᴇs
+"""
